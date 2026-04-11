@@ -42,7 +42,7 @@ EarlyStopping: Monitored validation loss to stop training when improvements ceas
 ModelCheckpoint: Saved the best-performing model iteration.
 
 Repository Structure
-feature embedding.ipynb: Comprehensive notebook including data exploration, preprocessing, and model training.
+irrigation_prediction.ipynb: Comprehensive notebook including data exploration, preprocessing, and model training.
 
 submission2.csv: A sample output file containing predictions for the test set.
 
